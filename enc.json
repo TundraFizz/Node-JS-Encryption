@@ -1,0 +1,7 @@
+{
+  "key": "zxcm;kef|jef>jldf&jgsl%riof#kljf",
+  "algorithm": "aes-256-cbc",
+  "paths": [
+    "sample.txt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "encryptor",
+  "version": "1.0.0",
+  "description": "Encrypts and decrypts files.",
+  "main": "enc.js",
+  "author": "Tundra Fizz",
+  "license": "ISC",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TundraFizz/Node-JS-Encryption.git"
+  }
+}
